@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=AirlineReservationSystem
+comment1.params=
+comment1.target=AirlineReservationSystem()
+comment2.params=
+comment2.target=void\ mutator()
+comment3.params=i
+comment3.target=void\ accessor(int)
+comment4.params=
+comment4.target=void\ choice()
+comment5.params=
+comment5.target=void\ Smoking()
+comment6.params=
+comment6.target=void\ Nonsmoking()
+comment7.params=
+comment7.target=void\ start()
+comment8.params=
+comment8.target=void\ main()
+numComments=9
